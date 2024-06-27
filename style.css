@@ -112,6 +112,10 @@ img.circle {
   border-radius: 50%;
 }
 
+form {
+  color: gold;
+}
+
 footer {
   display:flex;
   justify-content: center;
